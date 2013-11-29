@@ -1,3 +1,8 @@
 This java program simply converts MIDI note numbers to frequencies
 and outputs them in a matrix-like format in the terminal.
 
+The output of a run of the program can be found in output.txt
+
+compile in src/ dir with:
+    javac MIDI2freq_generator.java
+
