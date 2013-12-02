@@ -68,7 +68,7 @@ public class MIDI2freq_generator {
                 System.out.print("\t" + matrix[index]);
                 
                 // break out of loop when last index of matrix is reached
-                if (index + 1 >= matrix.length - 1) {
+                if (index + 1 >= matrix.length) {
                     break;
                 }
 
